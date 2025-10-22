@@ -1,6 +1,6 @@
 # 🧠 MLOps Hands-On Labs — Chameleon Cloud
 
-This repository summarizes 8 hands-on labs from my MLOps coursework (Prof Fraida Fund at NYU, Spring 2025). It was conducted on [Chameleon Cloud](https://www.chameleoncloud.org/). 
+This repository summarizes 8 hands-on labs from my MLOps coursework (course by Prof Fraida Fund at NYU, Spring 2025). It was conducted on [Chameleon Cloud](https://www.chameleoncloud.org/). 
 Each week explored a different layer of production-grade ML systems — from infrastructure and training pipelines to serving, monitoring, and data systems.
 
 *(Note: All materials here are my own summaries and screenshots; coursework notebooks are not shared to preserve academic integrity.)*
